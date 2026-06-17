@@ -1,0 +1,16 @@
+{
+  "name": "agent",
+  "description": "",
+  "owner": {
+    "name": "hrkmtsmt"
+  },
+  "homepage": "https://github.com/hrkmtsmt/agent",
+  "repository": "https://github.com/hrkmtsmt/agent",
+  "plugins": [
+    {
+      "name": "jinmon",
+      "description": "仕様を固めて実装まで完了させるプラグイン",
+      "source": "./plugins/jinmon"
+    }
+  ]
+}

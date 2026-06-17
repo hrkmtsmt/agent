@@ -1,0 +1,11 @@
+{
+  "name": "jinmon",
+  "version": "1.0.0",
+  "description": "仕様を固めて実装まで完了させるプラグイン",
+  "author": {
+    "name": "hrkmtsmt"
+  },
+  "repository": "https://github.com/hrkmtsmt/agent",
+  "license": "MIT",
+  "keywords": []
+}
